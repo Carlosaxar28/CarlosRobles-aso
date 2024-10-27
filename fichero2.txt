@@ -1,1 +1,2 @@
 Este fichero2 se ha creado directamente en github
+añadimos algo a este fichero
