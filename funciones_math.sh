@@ -1,15 +1,7 @@
 #!/bin/bash
 
 suma () {
-	local num1=$1
-	local num2=$2
-	echo $((num1 + num2))
+	local resultado=$(( $1 + $2 ))
+	echo "La suma de $1 y $2 es: $resultado"
 }
-
-resta () {
-	local num1=$1
-	local num2=$2
-	echo $((num1 - num2))
-}
-
 
